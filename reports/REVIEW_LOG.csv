@@ -1,0 +1,6 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe bị pre-label bỏ sót,added,Đối chiếu toàn ảnh và bổ sung xe nhìn thấy theo guideline; ảnh có 11 box added.
+1,frame_0107.jpg,box xe cần chỉnh,edited,Chỉnh lại ranh giới box để ôm phần thân xe nhìn thấy và không lấy phần nền; ảnh có 1 box edited.
+1,frame_0182.jpg,box không tương ứng xe,deleted,Loại box không phù hợp với một xe thật sau khi kiểm tra ảnh; ảnh có 1 box deleted.
+1,frame_0331.jpg,xe ở vùng khó quan sát,added,Bổ sung các xe bị pre-label bỏ sót khi kiểm tra vùng che khuất và xe đứng sát nhau; ảnh có 21 box added.
+1,frame_0392.jpg,box xe được xác nhận,accepted,Giữ box vì khớp xe thật và ranh giới phù hợp với guideline; ảnh có 9 box accepted.
